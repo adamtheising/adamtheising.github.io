@@ -2,8 +2,4 @@
 
 HTML website.
 
-Folders:
-Papers
-Teaching materials
-Code
-Picture
+Folders: Papers, Teaching materials, Code, Picture
