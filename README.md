@@ -2,4 +2,5 @@
 
 HTML website.
 
-Folders: Papers, Teaching materials, JM docs, Code, Picture
+Folders: Papers, Teaching materials
+To do: JM docs, Code, Picture
